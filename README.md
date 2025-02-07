@@ -1,2 +1,2 @@
-# Courses
-Includes some course materials and assignments.
+# CourseStuff
+This repository are for the assignments from varying courses.
